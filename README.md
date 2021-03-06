@@ -1,2 +1,1 @@
-# hci
-Demo project hci
+# Demo project hci
