@@ -1,2 +1,0 @@
-# hci
-Demo project hci
